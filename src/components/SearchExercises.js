@@ -7,6 +7,7 @@ const SearchExercises = () => {
 const [search, setsearch] = useState('');
 
   return (
+    //i am adding this from my second mac
     <Stack alignItems = "center" mt="37px"
     justifyContent="center" p="20px">
         <Typography fontWeight={700} sx={{
