@@ -1,7 +1,7 @@
 import React from 'react';
 import { Stack,Typography } from '@mui/material';
 
-import Icon from '../assets/icons/gym.png';
+import Icon from '../assets/icons/dumbbekk.png';
 
 const BodyPart = ({item, setBodyPart,bodyPart}) => {
   return (
@@ -11,7 +11,7 @@ const BodyPart = ({item, setBodyPart,bodyPart}) => {
     justifyContent="center"
     className="bodyPart-card"
     sx={{
-    borderTop: bodyPart === item ? '10px solid #FF2625 !important': 'none',
+    borderTop: bodyPart === item ? '10px solid #007DFE !important': 'none',
     backgroundColor:'#fff',
     borderBottomLeftRadius:'20px',
     width:'270px',
