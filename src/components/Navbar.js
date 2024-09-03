@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Stack } from '@mui/material';
 
-import Logo from '../assets/icons/gym.png'
+import Logo from '../assets/icons/dumbbell.png'
 
 const Navbar = () => {
   const [activeLink, setActiveLink] = useState('/'); // initialize active link to '/'
