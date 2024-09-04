@@ -1,10 +1,10 @@
 # Gym React App with ExerciseDB API
 # Vercel Deployment Link
 
-```
+
 https://exercises-isbaksilogs-projects.vercel.app/
 
-```
+
 
 
 ## Statement of the Problem
